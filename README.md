@@ -21,10 +21,22 @@ I specialize in **PHP, Laravel, JavaScript, Python, SQL, MySQL, Power BI, API in
 **Tools:** Git, GitHub, Postman, Docker, Jira, VS Code, Linux  
 **Other:** REST APIs, API Integration, Dashboard Development, Automation, Agile/Scrum  
 
-## Featured Work
+## Featured Projects
 
-### Laravel Developer Portfolio
+### [Laravel Developer Portfolio](https://github.com/rahulanilkumar-git/rahul-portfolio)
 Personal portfolio built with Laravel, Blade, Bootstrap, JavaScript, Chart.js, Docker, and Render deployment.
+
+**Tech:** Laravel, PHP, Blade, Bootstrap, JavaScript, Docker, Render
+
+### GitHub Profile README
+This profile README highlights my technical background, target roles, project experience, and recruiter-facing skills.
+
+**Tech:** Markdown, GitHub Profile Optimization
+
+## Featured Work Areas
+
+### Full-Stack Development
+Experience building web applications using PHP, Laravel, JavaScript, MySQL, APIs, and responsive frontend technologies.
 
 ### Dashboard & Data Projects
 Experience building Power BI dashboards, cleaning datasets, creating metrics, and presenting insights.
@@ -44,4 +56,3 @@ Experience with backend APIs, Python automation, SQL-based data handling, and pr
 
 - **LinkedIn:** https://www.linkedin.com/in/anilkumar-rahul/
 - **GitHub:** https://github.com/rahulanilkumar-git
-- **Email:** rahulanilpunalur@gmail.com
