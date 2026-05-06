@@ -4,6 +4,8 @@ I'm a Full-Stack Developer based in Waterloo, Ontario, Canada, with experience b
 
 I specialize in **PHP, Laravel, JavaScript, Python, SQL, MySQL, Power BI, API integration, and full-stack web development**.
 
+**Open to Software Developer, Full-Stack Developer, PHP/Laravel Developer, Data Analyst, and Power BI Developer opportunities.**
+
 ## Target Roles
 
 - Software Developer
