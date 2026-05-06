@@ -25,6 +25,11 @@ I specialize in **PHP, Laravel, JavaScript, Python, SQL, MySQL, Power BI, API in
 
 ## Featured Projects
 
+### [Healthcare CRM Dashboard](https://github.com/rahulanilkumar-git/healthcare-crm-dashboard)
+Full-stack healthcare CRM with Laravel API, React UI, JWT authentication, role-based access, patient management, appointments, billing, Stripe test payments, and analytics summaries.
+
+**Tech:** Laravel, PHP, React, MySQL, JWT, Docker, GitHub Actions
+
 ### [Laravel Developer Portfolio](https://github.com/rahulanilkumar-git/rahul-portfolio)
 Personal portfolio built with Laravel, Blade, Bootstrap, JavaScript, Chart.js, Docker, and Render deployment.
 
